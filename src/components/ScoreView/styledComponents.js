@@ -20,7 +20,7 @@ export const ScoreNameContainer = styled.div`
 export const ScoreName = styled.h1`
   color: #ffffff;
   font-size: 20px;
-  font-family: 'Bree Serif';
+  font-family: 'Roboto';
   margin-top: 0px;
   margin-bottom: 0px;
   @media screen and (max-width: 576px) {

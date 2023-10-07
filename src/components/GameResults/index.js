@@ -125,7 +125,10 @@ class GameResults extends Component {
                 >
                   <RiCloseLine />
                 </button>
-                <PopUpImage src="rules-img" alt="rules" />
+                <PopUpImage
+                  src="https://assets.ccbp.in/frontend/react-js/rock-paper-scissor/rules-image.png"
+                  alt="rules"
+                />
               </PopUpView>
             )}
           </Popup>

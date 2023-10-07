@@ -42,7 +42,7 @@ const GamePlay = props => {
 
           <GameButton
             type="button"
-            data-testid="papersButton"
+            data-testid="paperButton"
             onClick={() => checkResult(choicesList[2].id)}
           >
             <GameImage

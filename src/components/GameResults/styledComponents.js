@@ -9,6 +9,7 @@ export const MainContainer = styled.div`
   width: 100vw;
   padding: 20px;
   background-color: #223a5f;
+  font-family: 'Roboto';
 `
 export const RulesView = styled.div`
   align-self: flex-end;
@@ -32,4 +33,5 @@ export const PopUpImage = styled.img`
   width: 100%;
   height: 90%;
   margin-top: auto;
+  font-family: 'Roboto';
 `
